@@ -1,1 +1,1 @@
-# Projects.0
+This is the Diabetes Prediction project
